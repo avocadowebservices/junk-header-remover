@@ -24,7 +24,7 @@ The new beta plugin called Junk Header Remover for your wordpress site, all with
 * The plugin will remove junk from the header in wordpress on the fly. no more editing or confusing.
 
 
-== Frequently Asked Question =====
+== Frequently Asked Question ==
 
 N/A
 
@@ -38,7 +38,16 @@ v1.0  - The new beta plugin is being released in beta stage.
 
 N/A
 
-== Requirements ===
+== Requirements ==
 
 
 To have this plugin to fuction, your wordpress version must be at least 6.0.0 or greater.
+
+
+== Misc ==
+
+Tags: header, junk, header, junk header, overhead, load time, speed, faster, save space, space, load speed, loading fast
+tested Version: Up to 6.0.0
+Stable tag: 1.0.0
+License: GPLv3
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
