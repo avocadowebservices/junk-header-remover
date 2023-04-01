@@ -1,5 +1,5 @@
 === Header Junk Remover ===
-Contributors: The Deaf Joe ( https://dev.transitriderproductions.com )
+Contributors: Joseph Brzezowski ( https://dev.transitriderproductions.com )
 Tags: header, junk, header, junk header, overhead, load time, speed, faster, save space, space, load speed, loading fast
 Tested up to: 5.4.2
 Stable tag: 1.0.0
