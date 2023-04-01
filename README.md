@@ -1,16 +1,6 @@
 === Header Junk Remover ===
-
 Contributors: Joseph Brzezowski ( https://dev.transitriderproductions.com )
 
-Tags: header, junk, header, junk header, overhead, load time, speed, faster, save space, space, load speed, loading fast
-
-tested Version: Up to 6.0.0
-
-Stable tag: 1.0.0
-
-License: GPLv3
-
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
@@ -50,4 +40,4 @@ N/A
 == Requirements ===
 
 
-To have this plugin to fuction, your wordpress version must be at least 5.4.2 or greater.
+To have this plugin to fuction, your wordpress version must be at least 6.0.0 or greater.
