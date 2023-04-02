@@ -12,7 +12,7 @@ The new beta plugin called Junk Header Remover for your wordpress site, all with
 == Installation ==
 
 
-= To install the plugin via WordPress Dashboard: =
+= To install the plugin via WordPress Dashboard: = ( COMING SOON )
 * In the WordPress admin panel, navigate to Plugin > Add new
 * Search for Junk Header Remover
 * Click install and wait for the installation to finish. Next, click the activate link
