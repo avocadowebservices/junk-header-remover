@@ -1,6 +1,6 @@
 === Header Junk Remover ===
 
-Contributors: Joseph Brzezowski ( https://github.com/transitriderproductions/Junk-Header-Remover )
+Contributors: Joseph Brzezowski ( https://github.com/avocadowebservices/Junk-Header-Remover )
 
 
 == Description ==
