@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Junk Header Remover for WordPress
-Plugin URI: https://dev.transitriderproductions.com
+Plugin URI: https://avocadoweb.net
 Description: Removes unnecessary clutter junk from WP Header
 Version: 1.0.0
 Author: Joseph Brzezowski
