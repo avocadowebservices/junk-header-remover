@@ -4,7 +4,7 @@ Plugin Name: Junk Header Remover for WordPress
 Plugin URI: https://avocadoweb.net
 Description: Removes unnecessary clutter from the WP Header.
 Version: 1.0.1
-Author: Joseph Brzezowski
+Author: Joseph Brzezowski / AvocadoWeb Services LLC
 Author URI: https://avocadoweb.net
 License: GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
