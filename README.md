@@ -1,5 +1,13 @@
 === Header Junk Remover ===
 
+![License](https://img.shields.io/badge/license-GPLv3-blue)
+![WP Tested](https://img.shields.io/badge/WordPress-6.4.0-brightgreen)
+![Version](https://img.shields.io/badge/version-1.0.1-orange)
+![Stable](https://img.shields.io/badge/stable-yes-success)
+![Maintained](https://img.shields.io/badge/maintained-yes-green)
+![Made by](https://img.shields.io/badge/made%20by-AvocadoWeb-brightgreen)
+
+
 Contributors: Joseph Brzezowski ( https://github.com/avocadowebservices/Junk-Header-Remover )  
 Tags: header, junk, optimization, performance, speed, wordpress, seo  
 Requires at least: 6.7.1
