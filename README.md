@@ -30,9 +30,9 @@ This improves page speed, enhances security, and reduces clutter—all in one si
 
 == Installation ==  
 
-### Install via WordPress Dashboard (COMING SOON)  
+### Install via WordPress Dashboard  
 1. Go to **Plugins > Add New** in your WordPress admin panel  
-2. Search for **Header Junk Remover**  
+2. Search for **Junk Header Remover**  
 3. Click **Install**, then **Activate**  
 
 ### Manual Installation  
