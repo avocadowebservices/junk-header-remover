@@ -6,6 +6,7 @@
 ![Stable](https://img.shields.io/badge/stable-yes-success)
 ![Maintained](https://img.shields.io/badge/maintained-yes-green)
 ![Made by](https://img.shields.io/badge/made%20by-AvocadoWeb-brightgreen)
+[![Download from WordPress.org](https://img.shields.io/badge/WordPress.org-Download-blue)](https://wordpress.org/plugins/junk-header-remover/)
 
 
 Contributors: Joseph Brzezowski ( https://github.com/avocadowebservices/Junk-Header-Remover )  
