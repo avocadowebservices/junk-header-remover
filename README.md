@@ -50,6 +50,11 @@ A: No, the plugin works automatically upon activation.
 **Q: Will this break my website?**  
 A: No, the plugin only removes unnecessary `<meta>` tags that do not affect core functionality.  
 
+== Credits ==
+
+Source code on GitHub: https://github.com/avocadowebservices/junk-header-remover
+
+
 == Changelog ==  
 
 ### v1.0.1 (Updated)  
@@ -70,5 +75,5 @@ A: No, the plugin only removes unnecessary `<meta>` tags that do not affect core
 
 == Misc ==  
 
-Tested up to: **6.7.1**  
+Tested up to: **6.8.2**  
 Stable tag: **1.0.1**  
