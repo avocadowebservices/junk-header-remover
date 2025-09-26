@@ -1,79 +1,88 @@
-=== Header Junk Remover ===
+# 🧹 Junk Header Remover  
 
-![License](https://img.shields.io/badge/license-GPLv3-blue)
-![WP Tested](https://img.shields.io/badge/WordPress-6.4.0-brightgreen)
-![Version](https://img.shields.io/badge/version-1.0.1-orange)
-![Stable](https://img.shields.io/badge/stable-yes-success)
-![Maintained](https://img.shields.io/badge/maintained-yes-green)
-![Made by](https://img.shields.io/badge/made%20by-AvocadoWeb-brightgreen)
-[![Download from WordPress.org](https://img.shields.io/badge/WordPress.org-Download-blue)](https://wordpress.org/plugins/junk-header-remover/)
+![License](https://img.shields.io/badge/license-GPLv3-blue)  
+![WP Tested](https://img.shields.io/badge/WordPress-6.8.2-brightgreen)  
+![Version](https://img.shields.io/badge/version-1.0.2-orange)  
+![Stable](https://img.shields.io/badge/stable-yes-success)  
+![Maintained](https://img.shields.io/badge/maintained-yes-green)  
+![Made by](https://img.shields.io/badge/made%20by-AvocadoWeb-brightgreen)  
+[![Download from WordPress.org](https://img.shields.io/badge/WordPress.org-Download-blue)](https://wordpress.org/plugins/junk-header-remover/)  
+[![Support me on BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-orange)](https://buymeacoffee.com/avocadowebservices)  
 
+---
 
-Contributors: Joseph Brzezowski ( https://github.com/avocadowebservices/Junk-Header-Remover )  
-Tags: header, junk, optimization, performance, speed, wordpress, seo  
-Requires at least: 6.7.1
-Tested up to: 6.7.1 
-Stable tag: 1.0.1  
-License: GPLv3  
-License URI: https://www.gnu.org/licenses/gpl-3.0.html  
+## ✨ Description  
 
-== Description ==  
+**Header Junk Remover** is a lightweight WordPress plugin that strips unnecessary meta tags and links from your site’s `<head>` section.  
+The result: faster page loads, less cluttered code, and a slight security hardening—all without touching your theme.  
 
-**Header Junk Remover** is a lightweight WordPress plugin that removes unnecessary meta tags and links from your site's `<head>` section.  
-This improves page speed, enhances security, and reduces clutter—all in one simple file!  
+---
 
-**Features:**  
-✔ Removes unnecessary `<meta>` tags (RSD, XMLRPC, WLW, WordPress version, etc.)  
-✔ Eliminates extra RSS feed links  
-✔ Speeds up page load times by reducing overhead  
-✔ Easy to install and use—no configuration needed  
+## 🚀 Features  
 
-== Installation ==  
+- Removes unnecessary `<meta>` tags (RSD, XMLRPC, WLW, WordPress version, etc.)  
+- Eliminates extra RSS feed links  
+- Speeds up page load times by reducing overhead  
+- Zero configuration—just activate and done  
 
-### Install via WordPress Dashboard  
+---
+
+## 📦 Installation  
+
+### WordPress Dashboard  
 1. Go to **Plugins > Add New** in your WordPress admin panel  
 2. Search for **Junk Header Remover**  
 3. Click **Install**, then **Activate**  
 
-### Manual Installation  
-1. **Download** and unzip `junk-header-remover.zip`  
-2. Upload the `junk-header-remover` folder to `/wp-content/plugins/`  
-3. Activate the plugin via **Plugins > Installed Plugins**  
+### Manual Upload  
+1. Download and unzip `junk-header-remover.zip`  
+2. Upload the folder to `/wp-content/plugins/`  
+3. Activate under **Plugins > Installed Plugins**  
 
-✅ Once activated, it works automatically—no settings required!  
+> ✅ Works instantly after activation. No setup required.  
 
-== Frequently Asked Questions ==  
+---
+
+## ❓ FAQ  
 
 **Q: Do I need to configure anything?**  
-A: No, the plugin works automatically upon activation.  
+Nope—just activate and it runs.  
 
-**Q: Will this break my website?**  
-A: No, the plugin only removes unnecessary `<meta>` tags that do not affect core functionality.  
+**Q: Can it break my site?**  
+No. It only removes non-essential tags that don’t affect functionality.  
 
-== Credits ==
+---
 
-Source code on GitHub: https://github.com/avocadowebservices/junk-header-remover
+## 📖 Changelog  
 
+**1.0.2**  
+- Added donation link (Buy Me a Coffee)  
+- Updated documentation for GitHub and WordPress.org sync  
 
-== Changelog ==  
-
-### v1.0.1 (Updated)  
+**1.0.1**  
 - Wrapped functionality inside a proper function hooked to `init`  
 - Added security check to prevent direct file access  
-- Improved compatibility with the latest WordPress versions  
+- Improved compatibility with WordPress 6.8.x  
 
-### v1.0.0 (Initial Release)  
-- Released beta version  
+**1.0.0**  
+- Initial release  
 
-== Upgrade Notice ==  
+---
 
-- Always update to the latest version for improved security and performance.  
+## 📂 Repository & Credits  
 
-== Requirements ==  
+- Source code: [GitHub](https://github.com/avocadowebservices/junk-header-remover)  
+- Built with care by [AvocadoWeb Services LLC](https://avocadoweb.net)  
 
-- WordPress **6.0.0 or greater**  
+---
 
-== Misc ==  
+## ☕ Support  
 
-Tested up to: **6.8.2**  
-Stable tag: **1.0.1**  
+If you find this plugin helpful, consider [buying me a coffee](https://buymeacoffee.com/avocadowebservices) to support ongoing development.  
+
+---
+
+## 🔒 License  
+
+Licensed under the **GPL v3**.  
+[Read full license](https://www.gnu.org/licenses/gpl-3.0.html).  
