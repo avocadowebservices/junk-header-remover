@@ -1,13 +1,14 @@
 # 🧹 Junk Header Remover  
 
-![License](https://img.shields.io/badge/license-GPLv3-blue)  
-![WP Tested](https://img.shields.io/badge/WordPress-6.8.2-brightgreen)  
-![Version](https://img.shields.io/badge/version-1.0.2-orange)  
-![Stable](https://img.shields.io/badge/stable-yes-success)  
-![Maintained](https://img.shields.io/badge/maintained-yes-green)  
-![Made by](https://img.shields.io/badge/made%20by-AvocadoWeb-brightgreen)  
-[![Download from WordPress.org](https://img.shields.io/badge/WordPress.org-Download-blue)](https://wordpress.org/plugins/junk-header-remover/)  
-[![Support me on BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-orange)](https://buymeacoffee.com/avocadowebservices)  
+![License](https://img.shields.io/badge/license-GPLv3-blue) 
+![WP Tested](https://img.shields.io/badge/WordPress-6.8.2-brightgreen) 
+![Version](https://img.shields.io/badge/version-1.0.2-orange) 
+![Stable](https://img.shields.io/badge/stable-yes-success) 
+![Maintained](https://img.shields.io/badge/maintained-yes-green) 
+![Made by](https://img.shields.io/badge/made%20by-AvocadoWeb-brightgreen) 
+[![Download from WordPress.org](https://img.shields.io/badge/WordPress.org-Download-blue)](https://wordpress.org/plugins/junk-header-remover/) 
+[![Support me on BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-orange)](https://buymeacoffee.com/avocadowebservices)
+
 
 ---
 
