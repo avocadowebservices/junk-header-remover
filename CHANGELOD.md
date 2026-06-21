@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.0.3] - 2026-06-21
+
+### Updated
+- **Code:** Added more code to support more removal wp junk.
+- **Version:**  Now it can support the new WP 7.0 version
+
+
 ## [1.0.2] - 2025-09-26
 
 ### Added
@@ -34,4 +41,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Removed RSD link.  
   - Removed WordPress generator version.  
   - Removed RSS feed links and extra RSS feed links.  
-  - Removed index, wlwmanifest, and adjacent post links.  
+  - Removed index, wlwmanifest, and adjacent post links.
+ 
