@@ -56,7 +56,11 @@ No. It only removes non-essential tags that don’t affect functionality.
 
 ## 📖 Changelog  
 
-**1.0.2**  
+**1.0.3**  
+- Updated to support more removals worthless crap  
+- Updated to support for new WordPress 7.0 versions
+-
+- **1.0.2**  
 - Added donation link (Buy Me a Coffee)  
 - Updated documentation for GitHub and WordPress.org sync  
 
